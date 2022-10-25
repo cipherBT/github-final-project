@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # <cipherBT>
+   # cipherBT
 
    # Input:
    # p, principal amount
